@@ -1,4 +1,4 @@
-import styles from '../FeedBack/feed-back.module.css';
+import styles from '../FeedbackOptions/feedback-options.module.css';
 
 const Statistics = ({ good, neutral, bad, total, positivePercentage }) => {
   return (

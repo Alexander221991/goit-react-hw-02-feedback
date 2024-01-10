@@ -1,4 +1,4 @@
-import styles from '../FeedBack/feed-back.module.css';
+import styles from '../FeedbackOptions/feedback-options.module.css';
 
 const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   const buttonElements = options.map(name => (
